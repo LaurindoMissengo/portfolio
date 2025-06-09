@@ -1,7 +1,8 @@
 import "./App.css";
+import NavBar from "./components/NavBar";
 
 function App() {
-  return <p>Hello this is my portfolio's app home page </p>;
+  return <NavBar />;
 }
 
 export default App;
