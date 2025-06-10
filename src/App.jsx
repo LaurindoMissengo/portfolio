@@ -3,7 +3,7 @@ import NavBar from "./components/NavBar";
 
 function App() {
   return (
-    <div className="bg-amber-500">
+    <div className="bg-amber-500 h-screen w-screen">
       <NavBar />
     </div>
   );
