@@ -2,7 +2,7 @@ import Button from "./Button";
 
 function NavBar() {
   return (
-    <nav className="flex gap-6 p-5">
+    <nav className="flex gap-8 p-6 bg-amber-700 text-white">
       <div>
         <a href="/">
           <h1>Home</h1>
