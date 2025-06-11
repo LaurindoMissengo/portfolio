@@ -9,7 +9,7 @@ function NavBar() {
         </a>
       </div>
       <div>
-        <a href="/projects">
+        <a href="projects">
           <h1>Projects</h1>
         </a>
       </div>
