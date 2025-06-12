@@ -1,11 +1,12 @@
+import BackGround from "../components/BackGround";
 import NavBar from "../components/NavBar";
 
 function HeroPage() {
   return (
-    <div>
+    <BackGround>
       <NavBar />
       <h1>Hero Page</h1>
-    </div>
+    </BackGround>
   );
 }
 export default HeroPage;

@@ -1,10 +1,11 @@
+import BackGround from "./components/BackGround";
 import NavBar from "./components/NavBar";
 
 function App() {
   return (
-    <div className="bg-amber-900 h-screen w-screen">
+    <BackGround>
       <NavBar />
-    </div>
+    </BackGround>
   );
 }
 
