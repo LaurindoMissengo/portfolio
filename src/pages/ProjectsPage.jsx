@@ -5,6 +5,9 @@ function ProjectsPage() {
     <div>
       <NavBar />
       <h1>Projects Page</h1>
+      <div>
+        <div>A project</div>
+      </div>
     </div>
   );
 }
