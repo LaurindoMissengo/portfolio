@@ -6,7 +6,9 @@ function HeroPage() {
   return (
     <div>
       <h1>Hero Page</h1>
-      <img src={profileImage} alt="Mr. Light" />
+      <div className="m-4">
+        <img src={profileImage} alt="Mr. Light" />
+      </div>
     </div>
   );
 }
